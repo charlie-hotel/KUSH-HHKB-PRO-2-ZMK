@@ -1,0 +1,6 @@
+if SHIELD_HHKB_PRO2
+
+config ZMK_HID_REPORT_TYPE_NKRO
+	default y
+
+endif # SHIELD_HHKB_PRO2
